@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CalcualdorPotencia/CalculadorPotencia.iml" filepath="$PROJECT_DIR$/CalcualdorPotencia/CalculadorPotencia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ControlErroresCastilla/ControlErroresCastilla.iml" filepath="$PROJECT_DIR$/ControlErroresCastilla/ControlErroresCastilla.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EjerciciosMultiprocesoCastilla.iml" filepath="$PROJECT_DIR$/EjerciciosMultiprocesoCastilla.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Multiplicador/Multiplicador.iml" filepath="$PROJECT_DIR$/Multiplicador/Multiplicador.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SumaComunicacionEntreProcesos/SumaComunicacionEntreProcesos.iml" filepath="$PROJECT_DIR$/SumaComunicacionEntreProcesos/SumaComunicacionEntreProcesos.iml" />
+    </modules>
+  </component>
+</project>
