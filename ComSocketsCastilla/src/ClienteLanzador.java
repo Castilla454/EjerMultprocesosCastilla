@@ -19,6 +19,7 @@ public class ClienteLanzador {
             output.writeInt(inicio);
             output.writeInt(fin);
 
+
             // Recibir el resultado de la suma
             int resultado = input.readInt();
 
