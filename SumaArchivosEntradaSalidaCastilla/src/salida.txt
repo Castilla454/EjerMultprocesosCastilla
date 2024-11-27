@@ -1,0 +1,3 @@
+Resultado de la suma entre 1 y 5: 15
+Resultado de la suma entre 10 y 15: 75
+Resultado de la suma entre 20 y 25: 135
